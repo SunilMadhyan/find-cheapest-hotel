@@ -9,3 +9,5 @@ Miami Downtown has rate of 120$.
 Miami Midtown has rate of 100$.
 
 Can you help the hotel by writing a program to find the cheapest hotel?
+
+commit check
